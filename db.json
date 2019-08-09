@@ -1,0 +1,1915 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "CF1K5ENP6",
+            "name": "2_recursos-y-papers",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1545821040,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_recursos-y-papers",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "1_recursos-y-papers",
+                "1_recursos-originales",
+                "recursos-interesantes",
+                "recursos"
+            ],
+            "num_members": 2424
+        },
+        {
+            "id": "CF21BAJQN",
+            "name": "0_bienvenido_a_mlh",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1545511992,
+            "is_archived": false,
+            "is_general": true,
+            "unlinked": 0,
+            "name_normalized": "0_bienvenido_a_mlh",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "UF0DZA812",
+                "last_set": 1548782471
+            },
+            "purpose": {
+                "value": "En este canal se har\u00e1n todos los anuncios importantes relacionados con la comunidad, al igual que se listar\u00e1n las reglas aplicadas a este foro.",
+                "creator": "UF0DZA812",
+                "last_set": 1546362852
+            },
+            "previous_names": [
+                "0_anuncios_y_reglas",
+                "0_chat-general",
+                "0_conversaci\u00f3n-random",
+                "conversaci\u00f3n-general",
+                "general"
+            ],
+            "num_members": 2426
+        },
+        {
+            "id": "CF2RP60MD",
+            "name": "3_competici\u00f3n_kaggle",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1545821082,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "3_competicion_kaggle",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "PRIMERA COMPETICI\u00d3N MACHINE LEARNING DE LA COMUNIDAD: <https:\/\/www.kaggle.com\/t\/6904631ffe9e4a03be2e060bb5489ee3>",
+                "creator": "UF4DEAGG3",
+                "last_set": 1553381735
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "competici\u00f3n_kaggle",
+                "4_competici\u00f3n_kaggle",
+                "1_competici\u00f3n_kaggle",
+                "2_competici\u00f3n_kaggle",
+                "2_kaggle-competicion",
+                "1_kaggle-competicion",
+                "1-kaggle-competicion",
+                "competiciones-kaggle",
+                "-competiciones-kaggle",
+                "competiciones-kaggle",
+                "kaggle"
+            ],
+            "num_members": 244
+        },
+        {
+            "id": "CF45BPNFL",
+            "name": "0_anuncios_y_mejoras",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546274975,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "0_anuncios_y_mejoras",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "3565tfreer",
+                "creator": "UF6D88HF1",
+                "last_set": 1549640366
+            },
+            "purpose": {
+                "value": "\u00bfSe te ocurre una idea para mejorar esta comunidad?\u00bfEchas en falta alg\u00fan caknaeel o crees que hace falta implementar eeeee44e nueva funcionalidad? \u00a1Utilicemos este canal para discutir sobre ideas que ayuden a mejorar esta comunidad!",
+                "creator": "UF6D88HF1",
+                "last_set": 1549640366
+            },
+            "previous_names": [
+                "0_ideas-y-mejoras",
+                "adm__ideas-y-mejoras",
+                "ideas-y-propuestas",
+                "ideas-propuestas"
+            ],
+            "num_members": 2418
+        },
+        {
+            "id": "CF46W8KJ6",
+            "name": "0_pres\u00e9ntate",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546282687,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "0_presentate",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "Machine learning",
+                "creator": "UGP06DBNX",
+                "last_set": 1551801115
+            },
+            "purpose": {
+                "value": "\u00bfQui\u00e9n eres? \u00bfQu\u00e9 \u00e1rea de Machine Learning te interesa m\u00e1s? \u00bfQu\u00e9 puedes aportar a esta comunidad? \u00bfEst\u00e1s en RRSS? La tortilla... \u00bfCon o sin pi\u00f1a? Pres\u00e9ntate y deja un buena impresi\u00f3n :slightly_smiling_face:",
+                "creator": "UF0DZA812",
+                "last_set": 1546444538
+            },
+            "previous_names": [],
+            "num_members": 2398
+        },
+        {
+            "id": "CF4FDTHCG",
+            "name": "complejidad-algoritmo",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546464347,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "complejidad-algoritmo",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF4F3AYV7",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Compartir conocimiento general sobre algoritmos y estructuras de datos.",
+                "creator": "UF4F3AYV7",
+                "last_set": 1546464348
+            },
+            "previous_names": [
+                "algoritmos"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "CF4GPBVT4",
+            "name": "2_preguntas-y-dudas",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546382908,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_preguntas-y-dudas",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "\u00bfC\u00f3mo se compagina el hecho de compartir tus desarrollos con la comunidad y le generaci\u00f3n de ingresos por parte de estos mismos?",
+                "creator": "UF5V7PXCJ",
+                "last_set": 1546622199
+            },
+            "purpose": {
+                "value": "La \u00fanica pregunta est\u00fapida es la que no se plantea. Si tienes alguna duda, \u00a1Este es el lugar d\u00f3nde te podemos ayudar!",
+                "creator": "UF0DZA812",
+                "last_set": 1546622472
+            },
+            "previous_names": [
+                "3_preguntas-y-dudas"
+            ],
+            "num_members": 2420
+        },
+        {
+            "id": "CF4NLSR8D",
+            "name": "1_chat-general",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546382932,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "1_chat-general",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "Comunidad de Machine Learning en Espa\u00f1ol para conectar e intercambiar ideas y recursos",
+                "creator": "UF5ER1FMK",
+                "last_set": 1550799384
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 2422
+        },
+        {
+            "id": "CF55BAB1Q",
+            "name": "cursos",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546458342,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "cursos",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF6CLQP4N",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "El objetivo de este canal es que la gente vaya proponiendo cursos que est\u00e9 haciendo\/haya hecho y que indique lo que plantea el curso.",
+                "creator": "UF6CLQP4N",
+                "last_set": 1546458343
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF56UQ5PA",
+            "name": "x_desarrollo-interno",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546540239,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "x_desarrollo-interno",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF5B53N21",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Dedicado a hablar sobre el desarrollo de herramientas o scripts que ayuden a la comunidad desde la organizaci\u00f3n de Github. Ejemplos: Webs, listado de recursos en el repositorio, etc.",
+                "creator": "UF5B53N21",
+                "last_set": 1546542046
+            },
+            "previous_names": [
+                "desarrollo"
+            ],
+            "num_members": 138
+        },
+        {
+            "id": "CF58ND1EW",
+            "name": "modelos-de-negocios",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546467107,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "modelos-de-negocios",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF59V1H1T",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "modelosdenegocios"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "CF59DPNBA",
+            "name": "plataformas-ml",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546545861,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "plataformas-ml",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF54CCDFV",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Comentar y discutir sobre las plaformas en la nube para implementar\/entrenar modelos de ML",
+                "creator": "UF54CCDFV",
+                "last_set": 1546545862
+            },
+            "previous_names": [
+                "plataformas-nube",
+                "plataformas_enlinea"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "CF5DFTGNR",
+            "name": "prueba",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546464065,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "prueba",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF4JPUXJM",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF5G564LT",
+            "name": "4_doctorados-phd",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546518370,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_doctorados-phd",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Si est\u00e1s realizando o has realizado un doctorado, puedes compartir tu experiencia en este canal.",
+                "creator": "UF0DZA812",
+                "last_set": 1546518370
+            },
+            "previous_names": [
+                "4_doctorado-phd",
+                "4_doctorados-phd",
+                "doctorados-phd"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "CF5M78PMF",
+            "name": "4_nlp-mas-ml",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546576121,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_nlp-mas-ml",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF50YCDL2",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "compartir informaci\u00f3n relacionada a este campo para desarrollar estructuras de control de informaci\u00f3n capaces de desarrollar tareas complejas de compresi\u00f3n de textos o conversaci\u00f3n.",
+                "creator": "UF50YCDL2",
+                "last_set": 1546576121
+            },
+            "previous_names": [
+                "nlp-mas-ml",
+                "pln-mas-ml"
+            ],
+            "num_members": 164
+        },
+        {
+            "id": "CF5PQFJ83",
+            "name": "2_formacion_universit",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546536519,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_formacion_universit",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF6E4PQ2J",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Aqu\u00ed puedes hablar de tu experiencia en un m\u00e1ster o preguntar sobre alguno que te interese",
+                "creator": "UF6E4PQ2J",
+                "last_set": 1546536520
+            },
+            "previous_names": [
+                "4_formacion_universit",
+                "4_m\u00e1ster_universidad",
+                "4_m\u00e1sters",
+                "m\u00e1sters"
+            ],
+            "num_members": 281
+        },
+        {
+            "id": "CF5T1869Y",
+            "name": "4_grados_universidad",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546537032,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_grados_universidad",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF64GUESK",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Al igual que el canal de <#CF5PQFJ83|m\u00e1sters> \u00e9ste canal propone un recopilatorio de carreras online que esten relacionadas con el machine learning",
+                "creator": "UF64GUESK",
+                "last_set": 1546537033
+            },
+            "previous_names": [
+                "4_carreras_o_grados",
+                "carreras_o_grados"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "CF5UA4P7D",
+            "name": "2_ofertas-de-empleo",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546546595,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_ofertas-de-empleo",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "\u00bfEst\u00e1s interesado en buscar trabajo relacionado con el \u00e1rea de ML\/DS? \u00bfBuscas talento en este sector que te pueda ayudar a sacar adelante tu proyecto? \u00a1Utilicemos este canal como un portal de empleo!",
+                "creator": "UF0DZA812",
+                "last_set": 1546546596
+            },
+            "previous_names": [
+                "4_ofertas-de-empleo"
+            ],
+            "num_members": 326
+        },
+        {
+            "id": "CF6056A7M",
+            "name": "optimizaci\u00f3n",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546549646,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "optimizacion",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF57KNKMK",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Debate sobre los campos de la optimizaci\u00f3n y de la matem\u00e1tica aplicada. Temas como la Computaci\u00f3n Bio-Inspirada (Algoritmos Gen\u00e9ticos), las heur\u00edsticas-metaheur\u00edsticas, la teor\u00eda de la complejidad computacional (P vs NP), Soft Computing, etc.",
+                "creator": "UF57KNKMK",
+                "last_set": 1546558077
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF64EJ5R9",
+            "name": "videojuegos-ai",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546563787,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "videojuegos-ai",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF56TBQG2",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "Videojuegos ",
+                "creator": "UF56TBQG2",
+                "last_set": 1546564141
+            },
+            "purpose": {
+                "value": "Discutir sobre implementaci\u00f3n de Machine Learning en videojuegos",
+                "creator": "UF56TBQG2",
+                "last_set": 1546564141
+            },
+            "previous_names": [
+                "videojuegosai"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "CF65DCKDX",
+            "name": "2_recursos-propios",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546622884,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_recursos-propios",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Se aprende mucho de los recursos que est\u00e1n online. \u00a1Pero mucho m\u00e1s se aprende creando nuestros recursos propios! Si has trabajado en alg\u00fan proyecto, escrito un art\u00edculo, tienes un blog, o haces v\u00eddeos... \u00a1Queremos verlo!",
+                "creator": "UF0DZA812",
+                "last_set": 1546622884
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF7350TP1",
+            "name": "4_ordenadores-hardwar",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546545710,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_ordenadores-hardwar",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF54CCDFV",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Comentar los equipos que utilizamos para implementar nuestras t\u00e9cnicas de ML en local",
+                "creator": "UF54CCDFV",
+                "last_set": 1546545711
+            },
+            "previous_names": [
+                "ordenadores-hardware"
+            ],
+            "num_members": 103
+        },
+        {
+            "id": "CF74Q295Y",
+            "name": "2_principiantes",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546663485,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_principiantes",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF67NCKQX",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Canal con recursos para las personas que est\u00e1n iniciando en el mundo del machine learning. Tambi\u00e9n se pueden dejar preguntas",
+                "creator": "UF67NCKQX",
+                "last_set": 1546663485
+            },
+            "previous_names": [
+                "principiantes"
+            ],
+            "num_members": 386
+        },
+        {
+            "id": "CF77D1BDH",
+            "name": "3_banco_de_proyectos",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546718876,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "3_banco_de_proyectos",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF8MLPM7Y",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "<https:\/\/github.com\/ml-hispano\/MLH_bot>",
+                "creator": "UFCHS2E69",
+                "last_set": 1547394690
+            },
+            "purpose": {
+                "value": "Grupo de trabajo para el proyecto colaborativo #1. Puedes acceder a m\u00e1s informaci\u00f3n en este documento : <https:\/\/bit.ly\/2D56vw5>",
+                "creator": "UF0DZA812",
+                "last_set": 1547319276
+            },
+            "previous_names": [
+                "banco_de_proyectos"
+            ],
+            "num_members": 309
+        },
+        {
+            "id": "CF7BH00AV",
+            "name": "rrss_publicaciones",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546860612,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "rrss_publicaciones",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF5RR652R",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Aqu\u00ed os dejamos, un canal con las publicaciones de las redes sociales del grupo. Esperamos que os gusten!",
+                "creator": "UF5RR652R",
+                "last_set": 1546860613
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF7CZBQVA",
+            "name": "4_electr\u00f3nica-rob\u00f3tic",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546798573,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_electronica-robotic",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF4DZ9YTS",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Este canal est\u00e1 dedicado a hablar sobre la electr\u00f3nica y como se combina con el Machine Learning y Data Science",
+                "creator": "UF4DZ9YTS",
+                "last_set": 1546798919
+            },
+            "previous_names": [
+                "electr\u00f3nica-rob\u00f3tica",
+                "electr\u00f3nica"
+            ],
+            "num_members": 147
+        },
+        {
+            "id": "CF7JRKH1T",
+            "name": "libros",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546744729,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "libros",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF5B3G1ED",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Compartir informaci\u00f3n sobre libros de ML y recomendar cuales son los mejores",
+                "creator": "UF5B3G1ED",
+                "last_set": 1546744730
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF82PNY4E",
+            "name": "1_women-in-ml",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546616924,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "1_women-in-ml",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF65SBCK1",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "UF5RR652R",
+                "last_set": 1551367797
+            },
+            "purpose": {
+                "value": "Canal dedicado para las mujeres de la comunidad y cientificas de datos",
+                "creator": "UF65SBCK1",
+                "last_set": 1546616925
+            },
+            "previous_names": [
+                "women-in-ml"
+            ],
+            "num_members": 82
+        },
+        {
+            "id": "CF88ZNMJ6",
+            "name": "hacer-robots-con-ia",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546881298,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "hacer-robots-con-ia",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF8ETJHJR",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "En este canal me gustar\u00eda tratar temas de IA pero d\u00e1ndole un enfoque pr\u00e1ctico orientado a la construcci\u00f3n de robots con nuestros propios medios",
+                "creator": "UF8ETJHJR",
+                "last_set": 1546881298
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF8JUNG79",
+            "name": "twitch",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546792561,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "twitch",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF64GUESK",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Crear un canal de twitch donde la gente de la comunidad resuelva problemas de Data Science en directo.",
+                "creator": "UF64GUESK",
+                "last_set": 1546793850
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF9DTLN4X",
+            "name": "logica-borrosa",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546887736,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "logica-borrosa",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF8ETJHJR",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Hablemos tambi\u00e9n de otra rama de la IA: la l\u00f3gica borrosa... porque no todo en la IA son redes neuronales :slightly_smiling_face:",
+                "creator": "UF8ETJHJR",
+                "last_set": 1546887737
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CF9PAFF7Y",
+            "name": "neurociencia",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1546886231,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "neurociencia",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF8ETJHJR",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Como buenos amantes de la IA y el ML, seguramente a muchos de nosotros nos gustar\u00e1 la neurolog\u00eda y la psicolog\u00eda.He abierto este canal,para todos aquellos que tengan estas inquietudes y les guste pensar en la forma en que podr\u00edan implementarse con IA",
+                "creator": "UF8ETJHJR",
+                "last_set": 1546886232
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CFBQPH28Y",
+            "name": "test-no-entrar",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1547385684,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "test-no-entrar",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UFBFN3U1W",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "testing",
+                "creator": "UFBFN3U1W",
+                "last_set": 1547385685
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CFCASL142",
+            "name": "mlbottest",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1547315016,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mlbottest",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UFBFN3U1W",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "testing purposes",
+                "creator": "UFBFN3U1W",
+                "last_set": 1547315016
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CFDUM5J3D",
+            "name": "3_club-de-lectura",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1547562562,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "3_club-de-lectura",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Proponer peri\u00f3dicamente un art\u00edculo interesante que leer para su discusi\u00f3n en grupo.",
+                "creator": "UF0DZA812",
+                "last_set": 1547562563
+            },
+            "previous_names": [
+                "club-de-lectura",
+                "lectura-de-papers"
+            ],
+            "num_members": 291
+        },
+        {
+            "id": "CFL80G4DC",
+            "name": "4_modelos-generativos",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1548072860,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_modelos-generativos",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF6HWLMDL",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "GANs, AutoEncoders, Seq2Seq, todo lo que sea crear!\n\nPero se nos va un poco la olla",
+                "creator": "UF6HWLMDL",
+                "last_set": 1548072916
+            },
+            "purpose": {
+                "value": "GANs, AutoEncoders, Seq2Seq, todo lo que sea crear!",
+                "creator": "UF6HWLMDL",
+                "last_set": 1548072861
+            },
+            "previous_names": [
+                "modelos-generativos"
+            ],
+            "num_members": 133
+        },
+        {
+            "id": "CFQJQG8GG",
+            "name": "t3chfest_madrid",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1548708655,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "t3chfest_madrid",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "\u00a1Miembros quieren o van a asistir al evento T3CHFest!",
+                "creator": "UF0DZA812",
+                "last_set": 1548708656
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CFRB6P4MU",
+            "name": "foro-curso-fastai",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1548506519,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "foro-curso-fastai",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Canal para discutir el contenido del curso <https:\/\/course.fast.ai\/>",
+                "creator": "UF65SBCK1",
+                "last_set": 1549997396
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CFXRGAKU3",
+            "name": "4_computer_vision",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1549318228,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_computer_vision",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UFHQU665Q",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "computer_vision"
+            ],
+            "num_members": 132
+        },
+        {
+            "id": "CGL54C8TF",
+            "name": "5_mental_health",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1551380133,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "5_mental_health",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF5RR652R",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "UF5RR652R",
+                "last_set": 1551380291
+            },
+            "purpose": {
+                "value": "Canal sobre resources\/tips para mantener buena salud mental, contar experiencias, etc.",
+                "creator": "UF5RR652R",
+                "last_set": 1551394120
+            },
+            "previous_names": [],
+            "num_members": 84
+        },
+        {
+            "id": "CGZ2CNPGA",
+            "name": "bot_test",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1552580026,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "bot_test",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UFCHS2E69",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CH3QVMQ72",
+            "name": "colaboraciondavid",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1553190623,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "colaboraciondavid",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF5BB891R",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CH3SKS5LG",
+            "name": "5_offtopic",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1553193556,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "5_offtopic",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF5B53N21",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "offtopic"
+            ],
+            "num_members": 92
+        },
+        {
+            "id": "CH7R1MZ9N",
+            "name": "2_eventos",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1553608918,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_eventos",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF65SBCK1",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Compartir eventos relacionados con las \u00e1reas de inter\u00e9s de la comunidad",
+                "creator": "UF65SBCK1",
+                "last_set": 1553608918
+            },
+            "previous_names": [
+                "6_eventos"
+            ],
+            "num_members": 87
+        },
+        {
+            "id": "CJ39MG1TM",
+            "name": "chatbottest_v2",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1557078122,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "chatbottest_v2",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UFCHS2E69",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "CKVSA8MFB",
+            "name": "linux",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1562054380,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "linux",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UFAEVGV8T",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Todo lo que este relacionado con este \u00e1mbito. Noticias, ideas, problemas, etc.",
+                "creator": "UFAEVGV8T",
+                "last_set": 1562054380
+            },
+            "previous_names": [],
+            "num_members": 60
+        },
+        {
+            "id": "CKXARHAFQ",
+            "name": "4_deep-reinf-learn",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1561442695,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4_deep-reinf-learn",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UHRS1UX25",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "4_deep-rl",
+                "deep-rl"
+            ],
+            "num_members": 77
+        },
+        {
+            "id": "CL3B9T0A3",
+            "name": "mlh_openbci",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1561997484,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mlh_openbci",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF6A3UL4X",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "<https:\/\/github.com\/ml-hispano\/MLH_OpenBCI>",
+                "creator": "UF6A3UL4X",
+                "last_set": 1561997486
+            },
+            "previous_names": [],
+            "num_members": 22
+        }
+    ],
+    "response_metadata": {
+        "next_cursor": ""
+    }
+}
