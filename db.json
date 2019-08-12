@@ -1,0 +1,133 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "CF1K5ENP6",
+            "name": "2_recursos-y-papers",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1545821040,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "2_recursos-y-papers",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "1_recursos-y-papers",
+                "1_recursos-originales",
+                "recursos-interesantes",
+                "recursos"
+            ],
+            "num_members": 2424
+        },
+        {
+            "id": "CF21BAJQN",
+            "name": "0_bienvenido_a_mlh",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1545511992,
+            "is_archived": false,
+            "is_general": true,
+            "unlinked": 0,
+            "name_normalized": "0_bienvenido_a_mlh",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF0DZA812",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "UF0DZA812",
+                "last_set": 1548782471
+            },
+            "purpose": {
+                "value": "En este canal se har\u00e1n todos los anuncios importantes relacionados con la comunidad, al igual que se listar\u00e1n las reglas aplicadas a este foro.",
+                "creator": "UF0DZA812",
+                "last_set": 1546362852
+            },
+            "previous_names": [
+                "0_anuncios_y_reglas",
+                "0_chat-general",
+                "0_conversaci\u00f3n-random",
+                "conversaci\u00f3n-general",
+                "general"
+            ],
+            "num_members": 2426
+        },
+        {
+            "id": "CL3B9T0A3",
+            "name": "mlh_openbci",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1561997484,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mlh_openbci",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "UF6A3UL4X",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "TF0QU78RK"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": false,
+            "is_private": false,
+            "is_mpim": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "<https:\/\/github.com\/ml-hispano\/MLH_OpenBCI>",
+                "creator": "UF6A3UL4X",
+                "last_set": 1561997486
+            },
+            "previous_names": [],
+            "num_members": 22
+        }
+    ],
+    "response_metadata": {
+        "next_cursor": ""
+    }
+}
